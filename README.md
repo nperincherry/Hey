@@ -135,3 +135,4 @@ What
     ./hey what version are you
     ./hey what directory am I in
 
+ignore pull request
